@@ -1,4 +1,4 @@
-# Website
+# SC Web
 a personal website
 
 ## Plans:
